@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
+    <state version="5" enabled="false" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
@@ -31,6 +31,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor />
