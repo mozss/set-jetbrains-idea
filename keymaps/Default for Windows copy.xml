@@ -9,4 +9,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
 </keymap>
