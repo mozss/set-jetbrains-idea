@@ -12,6 +12,9 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
