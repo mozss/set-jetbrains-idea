@@ -22,6 +22,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
