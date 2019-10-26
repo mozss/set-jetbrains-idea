@@ -28,6 +28,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
