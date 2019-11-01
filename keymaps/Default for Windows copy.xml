@@ -1,4 +1,5 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="$Copy" />
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
