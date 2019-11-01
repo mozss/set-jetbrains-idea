@@ -35,6 +35,7 @@
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
+  <action id="GotoAction" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
