@@ -29,6 +29,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
