@@ -1,4 +1,5 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="$Copy" />
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
@@ -22,6 +23,22 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="GotoAction" />
+  <action id="HideActiveWindow" />
+  <action id="HideAllWindows" />
+  <action id="JumpToLastWindow" />
+  <action id="MaximizeToolWindow" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -31,7 +48,17 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="RestoreDefaultLayout" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction">
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
 </keymap>
