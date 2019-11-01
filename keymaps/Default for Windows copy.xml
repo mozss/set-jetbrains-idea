@@ -26,9 +26,8 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="alt c" />
-  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
@@ -36,6 +35,10 @@
     <keyboard-shortcut first-keystroke="alt g" />
   </action>
   <action id="GotoAction" />
+  <action id="HideActiveWindow" />
+  <action id="HideAllWindows" />
+  <action id="JumpToLastWindow" />
+  <action id="MaximizeToolWindow" />
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -45,6 +48,7 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="RestoreDefaultLayout" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
