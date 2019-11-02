@@ -166,6 +166,9 @@
   <action id="Uml.ExpandNodes" />
   <action id="Uml.ShowDiff" />
   <action id="UsageView.Include" />
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="WD.UploadCurrentRemoteFileAction" />
   <action id="WebOpenInAction" />
