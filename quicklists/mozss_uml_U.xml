@@ -1,4 +1,4 @@
-<list display="mozss_uml" description="uml建模工具">
+<list display="mozss_uml_U" description="uml建模工具">
   <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
   <action id="QuickList.$Separator$" />
