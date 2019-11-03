@@ -144,6 +144,12 @@
   <action id="ProjectViewChangeView" />
   <action id="PublishGroup.UploadTo" />
   <action id="QuickActionPopup" />
+  <action id="QuickList.mozss_analyze">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
+  <action id="QuickList.mozss_dev_v4">
+    <keyboard-shortcut first-keystroke="shift alt 1" />
+  </action>
   <action id="Refresh" />
   <action id="Rerun" />
   <action id="RerunTests" />

@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\main\java\com\mozss\patterns\creational\factory\abstract_factory\demo_02\Apple.java'" />
-    <option name="defaultScopeName" value="File '...\src\main\java\com\mozss\patterns\creational\factory\abstract_factory\demo_02\Apple.java'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\main\java\com\mozss\patterns\creational\factory\abstract_factory\demo_02\Apple.java'" />
+    <option name="customScope" value="Project 'JavaPatterns'" />
+    <option name="defaultScopeName" value="Project 'JavaPatterns'" />
+    <option name="SEARCH_SCOPE" value="Project 'JavaPatterns'" />
   </component>
 </application>
