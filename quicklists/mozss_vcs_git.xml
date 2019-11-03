@@ -1,0 +1,19 @@
+<list display="mozss_vcs_git" description="版本控制操作">
+  <action id="CheckinProject" />
+  <action id="CheckinFiles" />
+  <action id="ChangesView.Revert" />
+  <action id="QuickList.$Separator$" />
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="Annotate" />
+  <action id="Compare.SameVersion" />
+  <action id="QuickList.$Separator$" />
+  <action id="Git.Branches" />
+  <action id="Vcs.Push" />
+  <action id="Git.Stash" />
+  <action id="Git.Unstash" />
+  <action id="QuickList.$Separator$" />
+  <action id="MergeSettings" />
+  <action id="ResetToTheirsSettings" />
+  <action id="ResetToMySettings" />
+  <action id="QuickList.$Separator$" />
+</list>
