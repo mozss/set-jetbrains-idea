@@ -34,6 +34,9 @@
   <action id="QuickList.mozss_uml">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
+  <action id="QuickList.mozss_vcs_git">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="ctrl alt 0" />
