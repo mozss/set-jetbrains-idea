@@ -25,6 +25,15 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="QuickList.mozss_analyze_A">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
