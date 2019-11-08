@@ -1,4 +1,4 @@
-<list display="mozss_analyze" description="分析代码工具">
+<list display="mozss_analyze_A" description="分析代码工具">
   <action id="ShowBackwardPackageDeps" />
   <action id="ShowPackageCycles" />
   <action id="ShowDependenciesOnTarget" />
