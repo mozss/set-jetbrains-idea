@@ -48,6 +48,9 @@
   <action id="QuickList.mozss_code_Z">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="QuickList.mozss_markdown_M">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="QuickList.mozss_open_O">
     <keyboard-shortcut first-keystroke="alt o" />
   </action>
@@ -64,4 +67,5 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="ctrl alt 0" />
   </action>
+  <action id="Vcs.ToggleAmendCommitMode" />
 </keymap>

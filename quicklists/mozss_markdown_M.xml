@@ -1,0 +1,14 @@
+<list display="mozss_markdown_M" description="markdown编写相关指令">
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.scrolling.AutoScrollAction" />
+  <action id="QuickList.$Separator$" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.MarkdownIntroduceLinkReferenceAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.HeaderDownAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.HeaderUpAction" />
+</list>
