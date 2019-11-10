@@ -2,6 +2,7 @@
   <action id="OpenFile" />
   <action id="JavaScriptDebugger.OpenUrl" />
   <action id="ConfigureIcs" />
+  <action id="ManageRecentProjects" />
   <action id="QuickList.$Separator$" />
   <action id="CloseProject" />
   <action id="WelcomeScreen.Configure.Export" />
