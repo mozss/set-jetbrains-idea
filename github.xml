@@ -1,7 +1,0 @@
-<application>
-  <component name="GithubAccounts">
-    <account id="c4cbb314-5bd4-4bd7-8ab3-ca2a7de9148b" name="mozss">
-      <server host="github.com" />
-    </account>
-  </component>
-</application>
