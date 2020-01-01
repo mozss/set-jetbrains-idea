@@ -1,4 +1,16 @@
 <list display="mozss_markdown_I" description="备份_markdown编写相关指令">
+  <action id="MarkdownNavigator.EditorOnlyLayoutChange" />
+  <action id="MarkdownNavigator.PreviewOnlyLayoutChange" />
+  <action id="MarkdownNavigator.EditorAndPreviewLayoutChange" />
   <action id="QuickList.$Separator$" />
-  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction" />
+  <action id="MarkdownNavigator.HeaderLevelDown" />
+  <action id="MarkdownNavigator.HeaderLevelUp" />
+  <action id="MarkdownNavigator.ListIndent" />
+  <action id="MarkdownNavigator.BlockQuoteAdd" />
+  <action id="MarkdownNavigator.InsertTable" />
+  <action id="MarkdownNavigator.InsertColumn" />
+  <action id="MarkdownNavigator.InsertColumnRight" />
+  <action id="MarkdownNavigator.InsertRow" />
+  <action id="MarkdownNavigator.MoveColumnLeft" />
+  <action id="MarkdownNavigator.MoveColumnRight" />
 </list>
