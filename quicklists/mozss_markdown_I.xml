@@ -1,0 +1,9 @@
+<list display="mozss_markdown_I" description="备份_markdown编写相关指令">
+  <action id="QuickList.$Separator$" />
+  <action id="MarkdownNavigator.ExportAllHtml" />
+  <action id="MarkdownNavigator.ExportAllHtmlForced" />
+  <action id="MarkdownNavigator.ExportPdf" />
+  <action id="QuickList.$Separator$" />
+  <action id="MarkdownNavigator.ReformatDocument" />
+  <action id="MarkdownNavigator.ReformatElement" />
+</list>
