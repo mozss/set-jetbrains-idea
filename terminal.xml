@@ -1,5 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="D:\Program Files (x86)\Git\bin\bash.exe" />
+    <option name="myShellPath" value="C:\Windows\System32\cmd.exe" />
+    <option name="myTabName" value="hexo_local_shell" />
   </component>
 </application>
