@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/mozss/HexoBak.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mozss/AboutJava.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\lianyuboData\mozss_work" />
