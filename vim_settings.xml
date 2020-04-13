@@ -140,8 +140,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLSBASUdOT1JFIFBSRVZJT1VTOiBsaW5rIC0tPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGxlbmdob287IAogICAgcHJpdmF0ZSBpbnQgbGVnaGdvaTsgCiAgICBwcml2YXRlIGludCBsZWdvOyAKICAgIHByaXZhdGUgaW50IGxlZzs=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PCEtLSBASUdOT1JFIFBSRVZJT1VTOiBsaW5rIC0tPg==</text>
@@ -153,31 +153,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gYTsgaSA+PTA7IGkrKykgewo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGxlbmdob287IAogICAgcHJpdmF0ZSBpbnQgbGVnaGdvaTsgCiAgICBwcml2YXRlIGludCBsZWdvOyAKICAgIHByaXZhdGUgaW50IGxlZzs=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">LQogICAgICAgIA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgc3dhcChpbnRbXSBhcnIsIGludCBhLCBpbnQgYikgey0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0KICAgIHByaXZhdGUgc3RhdGljIHZvaWQgc3dhcCgpIHsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICq9u7u71KpiKiAqLwo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICq9u7u71KpiKiAqLwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>import static com.sun.tools.javac.jvm.ByteCodes.swap;</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
