@@ -27,6 +27,9 @@
   </action>
   <action id="ExportToTextFile" />
   <action id="Generate" />
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -70,6 +73,7 @@
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="ctrl alt 0" />
   </action>
+  <action id="SaveAll" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="android.deploy.ApplyChanges">
