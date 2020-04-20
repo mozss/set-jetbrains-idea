@@ -86,6 +86,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -105,7 +108,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="C:/hexo/source/_posts/2018年总结.md" timestamp="1587378411057" />
       <file name="C:/hexo/source/_posts/关于2020年.md" timestamp="1583005214847">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="13" column="0" />
