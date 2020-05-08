@@ -97,6 +97,11 @@
       <file name="/Dummy.txt" timestamp="1583077563861">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/lianyuboData/mozss_work/JavaPatterns/src/main/java/com/mozss/patterns/creational/factory/abstract_factory/demo_01/BadShapeException.java" timestamp="1588929324886">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="D:/lianyuboData/mozss_work/JavaPatterns/src/main/java/com/mozss/patterns/behavior/iteratior/balckbox_demo/Aggregate.java" timestamp="1582957822642">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -165,7 +170,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHVibGkgY2xhc3MgQmFkU2hhcGVFeGNlcHRpb24gZXh0ZW5kcyBFeGNlcHRpbm97CiAgICBwdWJsaWMgQmFkU2hhcGVFY2VwdGlvbihTdHJpbmcgbXNnKXsgc3VwZXIobXNnKX0KICAgIAp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PCEtLSBASUdOT1JFIFBSRVZJT1VTOiBsaW5rIC0tPg==</text>
@@ -177,31 +182,31 @@
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gYTsgaSA+PTA7IGkrKykgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHVibGkgY2xhc3MgQmFkU2hhcGVFeGNlcHRpb24gZXh0ZW5kcyBFeGNlcHRpbm97CiAgICBwdWJsaWMgQmFkU2hhcGVFY2VwdGlvbihTdHJpbmcgbXNnKXsgc3VwZXIobXNnKX0KICAgIAp9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIE15YXJyKGludCBsZWdodCl7CiAgICAgICAgZWxtZSA9IDsKICAgICAgICB0aGlzLmxlbmd0aCA9IGxlZ2h0OwogICAgICAgIGludEFycmF5ID0gbmV3IGludFtsZW5ndGhdOwogICAgfQ==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGxlbmdob287IAogICAgcHJpdmF0ZSBpbnQgbGVnaGdvaTsgCiAgICBwcml2YXRlIGludCBsZWdvOyAKICAgIHByaXZhdGUgaW50IGxlZzs=</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIE15YXJyKGludCBsZWdodCl7CiAgICAgICAgZWxtZSA9IDsKICAgICAgICB0aGlzLmxlbmd0aCA9IGxlZ2h0OwogICAgICAgIGludEFycmF5ID0gbmV3IGludFtsZW5ndGhdOwogICAgfQ==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGxlbmdob287IAogICAgcHJpdmF0ZSBpbnQgbGVnaGdvaTsgCiAgICBwcml2YXRlIGludCBsZWdvOyAKICAgIHByaXZhdGUgaW50IGxlZzs=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LQogICAgICAgIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgc3dhcChpbnRbXSBhcnIsIGludCBhLCBpbnQgYikgey0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KICAgIHByaXZhdGUgc3RhdGljIHZvaWQgc3dhcCgpIHsK</text>
+        <text encoding="base64">ICAgICsK</text>
       </register>
     </registers>
   </component>
@@ -215,9 +220,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
-    <shortcut-conflicts />
-    <editor />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
