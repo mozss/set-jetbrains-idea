@@ -3,7 +3,6 @@
     <option name="compactTreeIndents" value="true" />
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="25600" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
-    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="15" />
