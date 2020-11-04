@@ -1,9 +1,10 @@
 <templateSet group="Mozss">
-  <template name="mozssmethods" value="/**&#10; * @Title: &#10; * @Description: &#10; * $params$&#10; * @return: $return$&#10; * @author: mozss&#10; * @date: $date$ $time$&#10; * */&#10;" description="有参方法的注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
-    <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
-    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="mozssmethods" value="**&#10; * @title:&#10; * @description:&#10; * @param $params$ &#10; * @return: $returnType$ $returnName$ &#10; * @author:&#10; * @date: $date$ $time$&#10; **/&#10;" description="有参方法的注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="returnType" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
+    <variable name="returnName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
