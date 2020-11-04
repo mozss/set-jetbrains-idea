@@ -9,4 +9,16 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="mozssinfo" value="**&#10; * @title:&#10; * @param $params$ &#10; * @return: $returnType$  &#10; * @author:&#10; **/ " description="简单的描述（mapper，setter，getter）" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="false" />
+    <variable name="returnType" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="leetcode" value="**&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * @题目编号:&#10; * @题目名称:&#10; * @知识考察:&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * @题目描述:&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * @输入Input:&#10; * @输出Output:&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * @解题思路:&#10; * @题目总结: &#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; **/ " description="(leetcode等算法练习题目的注释模板)" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
