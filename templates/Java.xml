@@ -1,0 +1,9 @@
+<templateSet group="Java">
+  <template name="ittok" value="for (java.util.StringTokenizer $TOKENIZER$ = &#10;     new java.util.StringTokenizer($STRING$); $TOKENIZER$.hasMoreTokens(); ) {&#10;    String $VAR$ = $TOKENIZER_COPY$.nextToken();&#10;    $END$&#10;}&#10;" description="Iterate tokens from String" toReformat="true" toShortenFQNames="true">
+    <variable name="TOKENIZER" expression="suggestVariableName()" defaultValue="&quot;tokenizer&quot;" alwaysStopAt="true" />
+    <variable name="STRING" expression="variableOfType(&quot;java.lang.String&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="suggestVariableName()" defaultValue="&quot;token&quot;" alwaysStopAt="true" />
+    <variable name="TOKENIZER_COPY" expression="TOKENIZER  " defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+</templateSet>

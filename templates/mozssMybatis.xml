@@ -1,0 +1,7 @@
+<templateSet group="mozssMybatis">
+  <template name="test" value="test" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
