@@ -1,4 +1,4 @@
-<list display="mozss_X_windowsFull" description="IDEA几种全屏模式">
+<list display="mozss_X_windowsFull" description="IDEA几种全屏模式,以及文件的比较,文件的结构">
   <action id="TogglePresentationMode" />
   <action id="ToggleDistractionFreeMode" />
   <action id="ToggleFullScreen" />
@@ -8,4 +8,7 @@
   <action id="CompareFileWithEditor" />
   <action id="CompareClipboardWithSelection" />
   <action id="QuickList.$Separator$" />
+  <action id="FileStructurePopup" />
+  <action id="ShowFilePath" />
+  <action id="TypeHierarchy" />
 </list>
