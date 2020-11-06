@@ -5,6 +5,6 @@
     </account>
   </component>
   <component name="GithubSettings">
-    <option name="CONNECTION_TIMEOUT" value="10000" />
+    <option name="CONNECTION_TIMEOUT" value="20000" />
   </component>
 </application>

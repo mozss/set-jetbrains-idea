@@ -20,7 +20,6 @@
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
     <option name="showExplanation" value="true" />
-    <option name="showWordsOnStartup" value="true" />
     <option name="targetLanguageSelection" value="LAST" />
     <option name="translateDocumentation" value="true" />
   </component>
