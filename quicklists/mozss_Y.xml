@@ -1,1 +1,10 @@
-<list display="mozss_Y" />
+<list display="mozss_Y">
+  <action id="Generate" />
+  <action id="QuickList.$Separator$" />
+  <action id="EditorPasteSimple" />
+  <action id="PasteMultiple" />
+  <action id="QuickList.$Separator$" />
+  <action id="AddToFavoritesPopup" />
+  <action id="QuickList.$Separator$" />
+  <action id="ShowSettings" />
+</list>
