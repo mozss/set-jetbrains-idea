@@ -1,0 +1,13 @@
+<list display="mozss_I_find" description="查找相关的选项">
+  <action id="Find" />
+  <action id="FindNext" />
+  <action id="FindPrevious" />
+  <action id="QuickList.$Separator$" />
+  <action id="FindWordAtCaret" />
+  <action id="FindInPath" />
+  <action id="XPathView.Actions.FindByExpression" />
+  <action id="QuickList.$Separator$" />
+  <action id="FindUsages" />
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="FindUsagesInFile" />
+</list>

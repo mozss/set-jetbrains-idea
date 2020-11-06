@@ -1,4 +1,4 @@
-<list display="mozss_close_K" description="关闭窗口配置">
+<list display="mozss_K_close" description="关闭窗口配置">
   <action id="CloseProject" />
   <action id="QuickList.$Separator$" />
   <action id="CloseContent" />

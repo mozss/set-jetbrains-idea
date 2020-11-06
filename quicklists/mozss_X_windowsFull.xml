@@ -1,0 +1,11 @@
+<list display="mozss_X_windowsFull" description="IDEA几种全屏模式">
+  <action id="TogglePresentationMode" />
+  <action id="ToggleDistractionFreeMode" />
+  <action id="ToggleFullScreen" />
+  <action id="ToggleZenMode" />
+  <action id="QuickList.$Separator$" />
+  <action id="CompareTwoFiles" />
+  <action id="CompareFileWithEditor" />
+  <action id="CompareClipboardWithSelection" />
+  <action id="QuickList.$Separator$" />
+</list>

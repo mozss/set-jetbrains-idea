@@ -39,6 +39,36 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="QuickList.mozss_A_analyze">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="QuickList.mozss_G_vcs_git">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="QuickList.mozss_I">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="QuickList.mozss_I_find">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="QuickList.mozss_K_close">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="QuickList.mozss_M_markdown">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="QuickList.mozss_O_open">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="QuickList.mozss_X">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="QuickList.mozss_X_windowsFull">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="QuickList.mozss_Y">
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
   <action id="QuickList.mozss_analyze_A">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>

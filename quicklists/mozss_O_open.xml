@@ -1,0 +1,14 @@
+<list display="mozss_O_open" description="打开常用的项目和文件_导出文件">
+  <action id="OpenFile" />
+  <action id="JavaScriptDebugger.OpenUrl" />
+  <action id="ConfigureIcs" />
+  <action id="ManageRecentProjects" />
+  <action id="QuickList.$Separator$" />
+  <action id="RecentFiles" />
+  <action id="RecentChanges" />
+  <action id="RecentChangedFiles" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="QuickList.$Separator$" />
+  <action id="JumpToNextChange" />
+  <action id="JumpToLastChange" />
+</list>
