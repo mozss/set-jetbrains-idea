@@ -1,1 +1,3 @@
-<list display="mozss_Q_NoUse" />
+<list display="mozss_Q_NoUse">
+  <action id="RenameElement" />
+</list>
