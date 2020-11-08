@@ -16,7 +16,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="leetcode" value="**&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * @题目名称: &#10; * @知识考察:&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * @题目描述:&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * eg 1&gt;:&#10; * @输入Input:&#10; * @输出Output:&#10; * @说明:&#10; *&#10; * eg 2&gt;:&#10; * @输入Input:&#10; * @输出Output:&#10; * @说明:&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * @解题思路:&#10; * @题目总结: &#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; **/ " description="leetcode等算法练习题目的注释模板" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="leetcode" value="**&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * 题目名称:&#10; * 知识考察:&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * 题目描述:&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * eg 1&gt;:&#10; * 输入Input:&#10; * 输出Output:&#10; * 说明:&#10; *&#10; * eg 2&gt;:&#10; * 输入Input:&#10; * 输出Output:&#10; * 说明:&#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; * 解题思路:&#10; * 题目总结: &#10; * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *&#10; **/ " description="leetcode等算法练习题目的注释模板" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
@@ -29,6 +29,11 @@
     </context>
   </template>
   <template name="mozssdesc" value="**&#10; * @概要描述: &#10; * @关键字:&#10; * @详细描述:&#10; **/ " description="负责模块,流程的说明" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="mozss" value="**&#10; *@Title ${NAME}&#10; *@Descritpion ${description}&#10; *@Auther ${auther}&#10; *@Date &#10; */" description="测试标签" toReformat="false" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
