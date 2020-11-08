@@ -1,5 +1,5 @@
 <templateSet group="mozssJava">
-  <template name="mozssmethods" value="**&#10; * &lt;br&gt; &lt;br&gt;&#10; * &lt;p&gt; &lt;/p&gt;&#10; * &lt;p&gt;CreatDa: $date$ &lt;/p&gt;&#10; *&#10; * @param $param$ &#10; * @return $returnType$ $returnName$ &#10; * @author mozss &#10; */&#10;" description="有参方法的详细注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="mozssmethods" value="**&#10; * &lt;br&gt;&#10; * &lt;p&gt; &lt;/p&gt;&#10; * &lt;p&gt;CreatDate: $date$ &lt;/p&gt;&#10; *&#10; * @param $param$ &#10; * @return $returnType$ $returnName$ &#10; * @author mozss &#10; */&#10;" description="有参方法的详细注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <variable name="param" expression="showParameterInfo()" defaultValue="" alwaysStopAt="true" />
     <variable name="returnType" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
@@ -8,7 +8,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="mozssinfo" value="**&#10; * &lt;br&gt; &lt;br&gt;&#10; * &lt;p&gt;CreateDate: $date$ &lt;/p&gt;&#10; *&#10; * @author mozss&#10; */&#10;" description="简单方法描述（mapper，setter，getter）" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="mozssinfo" value="**&#10; * &lt;br&gt;&#10; * &lt;p&gt;CreateDate: $date$ &lt;/p&gt;&#10; *&#10; * @author mozss&#10; */&#10;" description="简单方法描述（mapper，setter，getter）" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
