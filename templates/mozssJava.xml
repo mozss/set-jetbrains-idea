@@ -1,15 +1,14 @@
 <templateSet group="mozssJava">
-  <template name="mozssmethods" value="**&#10; * title &#10; * date $date$ $time$&#10; * @param $params$ &#10; * @return $returnType$ $returnName$ &#10; * @author mozss &#10; * description &#10; **/&#10;" description="有参方法的详细注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="mozssmethods" value="**&#10; * &lt;p&gt;Title: &lt;/p&gt; &#10; * &lt;p&gt;CreateDate: $date$ &lt;/p&gt;&#10; * &lt;p&gt;Description: &lt;/p&gt;&#10; * @param $param$ &#10; * @return $returnType$ $returnName$ &#10; * @author mozss &#10; **/&#10;" description="有参方法的详细注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="showParameterInfo()" defaultValue="" alwaysStopAt="true" />
     <variable name="returnType" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
     <variable name="returnName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="mozssinfo" value="**&#10; * title&#10; * date $date$ $time$&#10; * @author mozss&#10;**/&#10;" description="简单方法描述（mapper，setter，getter）" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="mozssinfo" value="**&#10; * &lt;p&gt;Description: &lt;/p&gt;&#10; * &lt;p&gt;CreateDate: $date$ $time$&lt;/p&gt;&#10; * @author mozss&#10;**/&#10;" description="简单方法描述（mapper，setter，getter）" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="date" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
