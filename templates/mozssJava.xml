@@ -1,5 +1,5 @@
 <templateSet group="mozssJava">
-  <template name="mozssmethods" value="**&#10; * @title:&#10; * @description:&#10; * @param: $params$ &#10; * @return: $returnType$ $returnName$ &#10; * @author: mozss&#10; * @date: $date$ $time$&#10; **/&#10;" description="有参方法的详细注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="mozssmethods" value="**&#10; * @title&#10; * @description&#10; * @param $params$ &#10; * @return $returnType$ $returnName$ &#10; * @author mozss&#10; * @date $date$ $time$&#10; **/&#10;" description="有参方法的详细注释" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="returnType" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
     <variable name="returnName" expression="" defaultValue="" alwaysStopAt="true" />
@@ -9,7 +9,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="mozssinfo" value="**&#10; * @title:&#10; * @param: $params$ &#10; * @return: $returnType$  &#10; * @author: mozss&#10; **/ " description="简单方法描述（mapper，setter，getter）" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="mozssinfo" value="**&#10; * @title&#10; * @param $params$ &#10; * @return $returnType$  &#10; * @author mozss&#10; **/ " description="简单方法描述（mapper，setter，getter）" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="false" />
     <variable name="returnType" expression="methodReturnType()" defaultValue="" alwaysStopAt="false" />
     <context>
