@@ -1,5 +1,6 @@
 <list display="mozss_Y">
   <action id="Generate" />
+  <action id="ByteCodeViewer" />
   <action id="QuickList.$Separator$" />
   <action id="EditorPasteSimple" />
   <action id="PasteMultiple" />
