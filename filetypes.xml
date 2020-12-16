@@ -4,7 +4,6 @@
       <mapping ext="cmd" type="Batch" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="md" type="Markdown" />
       <mapping pattern="双重接口以及在Java语言中的实现.md" type="PLAIN_TEXT" />
       <mapping pattern="前缀_中缀_后缀_表达式.md" type="PLAIN_TEXT" />
       <mapping pattern="适配器模式说明.md" type="PLAIN_TEXT" />
