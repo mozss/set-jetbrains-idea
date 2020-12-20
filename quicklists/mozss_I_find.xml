@@ -10,4 +10,5 @@
   <action id="FindUsages" />
   <action id="ShowSettingsAndFindUsages" />
   <action id="FindUsagesInFile" />
+  <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction" />
 </list>
