@@ -1,10 +1,10 @@
 <application>
   <component name="GithubAccounts">
-    <account id="c4cbb314-5bd4-4bd7-8ab3-ca2a7de9148b" name="mozss">
+    <account name="mozss" id="3a938db8-29e3-4380-88e1-d9c99043d5aa">
       <server host="github.com" />
     </account>
   </component>
   <component name="GithubSettings">
-    <option name="CONNECTION_TIMEOUT" value="20000" />
+    <option name="CONNECTION_TIMEOUT" value="40000" />
   </component>
 </application>
