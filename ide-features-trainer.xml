@@ -15,7 +15,7 @@
         <entry key="collapse" value="NOT_PASSED" />
         <entry key="comment line" value="NOT_PASSED" />
         <entry key="completion with tab" value="NOT_PASSED" />
-        <entry key="context.actions" value="PASSED" />
+        <entry key="context.actions" value="NOT_PASSED" />
         <entry key="declaration and usages" value="NOT_PASSED" />
         <entry key="duplicate" value="NOT_PASSED" />
         <entry key="extract variable" value="NOT_PASSED" />
