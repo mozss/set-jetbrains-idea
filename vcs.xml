@@ -30,9 +30,13 @@
           <option name="url" value="https://github.com/mozss/notes-it-mind.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mozss/Images-mozssblog.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\data-mozss\OneDrive\Mind" />
+    <option name="cloneParentDir" value="D:\data-mozss\OneDrive\Images" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
