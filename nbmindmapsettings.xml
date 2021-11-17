@@ -5,7 +5,7 @@
         <entry key="collapsatorBackgroundColor@" value="-1" />
         <entry key="collapsatorBorderColor@" value="-12566464" />
         <entry key="collapsatorBorderWidth" value="1065353216" />
-        <entry key="collapsatorSize" value="16" />
+        <entry key="collapsatorSize" value="15" />
         <entry key="connectorColor@" value="-1" />
         <entry key="connectorWidth" value="1069547520" />
         <entry key="drawBackground" value="true" />
@@ -16,7 +16,7 @@
         <entry key="firstLevelHorizontalInset" value="48" />
         <entry key="firstLevelTextColor@" value="-16777216" />
         <entry key="firstLevelVerticalInset" value="32" />
-        <entry key="font@" value="Serif:1:18" />
+        <entry key="font@" value="Serif:1:16" />
         <entry key="gridColor@" value="-12364185" />
         <entry key="gridStep" value="32" />
         <entry key="horizontalBlockGap" value="5" />
