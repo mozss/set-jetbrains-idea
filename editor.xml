@@ -51,5 +51,8 @@
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
+    <filter name="todo-mozss">
+      <pattern index="0" />
+    </filter>
   </component>
 </application>
