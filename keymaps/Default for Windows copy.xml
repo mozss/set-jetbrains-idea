@@ -1,1 +1,5 @@
-<keymap version="1" name="Default for Windows copy" parent="$default" />
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="QuickList.used_mozss_L">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+</keymap>

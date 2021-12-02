@@ -1,7 +1,4 @@
 <list display="mozss_M_markdown" description="markdown编写视图,编写命令相关指令">
-  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction" />
-  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction" />
-  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.PreviewOnlyLayoutChangeAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.scrolling.AutoScrollAction" />
   <action id="QuickList.$Separator$" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />

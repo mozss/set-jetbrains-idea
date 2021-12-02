@@ -1,1 +1,9 @@
-<list display="used_mozss_L" description="创建类文件" />
+<list display="used_mozss_L" description="创建类文件-等相关文件">
+  <action id="NewClass" />
+  <action id="NewDir" />
+  <action id="NewFile" />
+  <action id="NewPackageInfo" />
+  <action id="NewModuleInfo" />
+  <action id="DiagramsNetNewFile" />
+  <action id="NewJavaDiagram" />
+</list>
