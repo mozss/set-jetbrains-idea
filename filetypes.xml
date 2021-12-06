@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="02-见词知意-基础语法.md" type="AUTO_DETECTED" />
+      <mapping pattern="ch03-immutable object.md" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
