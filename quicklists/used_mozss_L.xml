@@ -6,4 +6,5 @@
   <action id="NewModuleInfo" />
   <action id="DiagramsNetNewFile" />
   <action id="ShowUmlDiagram" />
+  <action id="Generate" />
 </list>
