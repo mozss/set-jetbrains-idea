@@ -7,4 +7,5 @@
   <action id="DiagramsNetNewFile" />
   <action id="ShowUmlDiagram" />
   <action id="Generate" />
+  <action id="CopyContentRootPath" />
 </list>
