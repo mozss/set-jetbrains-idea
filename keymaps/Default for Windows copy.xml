@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="ActivateNotebookToolWindow">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="QuickList.used_mozss_L">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
