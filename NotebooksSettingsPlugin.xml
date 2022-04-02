@@ -1,0 +1,7 @@
+<application>
+  <component name="com.itcodebox.notebooks.ui.toolsettings.AppSettingsState">
+    <option name="customFontName" value="JetBrains Mono" />
+    <option name="customFontSize" value="14" />
+    <option name="addMenuItemVisible" value="true" />
+  </component>
+</application>
