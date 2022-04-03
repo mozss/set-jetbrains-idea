@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="文件 '…\src\main\java\com\bonc\bean\Series.java'" />
+    <option name="defaultScopeName" value="文件 '…\src\main\java\com\bonc\bean\Series.java'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="文件 '…\src\main\java\com\bonc\bean\Series.java'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
