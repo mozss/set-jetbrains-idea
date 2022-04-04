@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="文件 '…\src\main\java\com\bonc\bean\Series.java'" />
-    <option name="defaultScopeName" value="文件 '…\src\main\java\com\bonc\bean\Series.java'" />
+    <option name="customScope" value="文件 '…\src\main\java\com\mozss\tmp\Hello.java'" />
+    <option name="defaultScopeName" value="文件 '…\src\main\java\com\mozss\tmp\Hello.java'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="文件 '…\src\main\java\com\bonc\bean\Series.java'" />
+    <option name="SEARCH_SCOPE" value="文件 '…\src\main\java\com\mozss\tmp\Hello.java'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
