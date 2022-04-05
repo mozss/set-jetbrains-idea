@@ -5,4 +5,7 @@
   <action id="QuickList.used_mozss_L">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="QuickList.used_mozss_S">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
