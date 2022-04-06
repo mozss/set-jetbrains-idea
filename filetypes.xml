@@ -5,22 +5,11 @@
       <mapping pattern="ch03-immutable object.md" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="ch12-主仆模式.md" type="AUTO_DETECTED" />
-      <mapping pattern="**spring-configuration-metadata.json" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="url" type="Native" />
       <mapping ext="plantuml" type="PlantUML file" />
-      <mapping pattern="bootstrap-**.properties" type="Properties" />
-      <mapping pattern="application-**.properties" type="Properties" />
-      <mapping pattern="application.properties" type="Properties" />
-      <mapping pattern="bootstrap.properties" type="Properties" />
-      <mapping pattern="bootstrap-**.y**ml" type="YAML" />
-      <mapping pattern="application-**.y**ml" type="YAML" />
-      <mapping pattern="application.yml" type="YAML" />
-      <mapping pattern="application.yaml" type="YAML" />
-      <mapping pattern="bootstrap.yaml" type="YAML" />
-      <mapping pattern="bootstrap.yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
