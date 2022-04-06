@@ -3,5 +3,8 @@
   <action id="ShowSettings" />
   <action id="ShowProjectStructureSettings" />
   <action id="QuickList.$Separator$" />
-  <action id="TWViewModes" />
+  <action id="TogglePresentationMode" />
+  <action id="ToggleDistractionFreeMode" />
+  <action id="ToggleFullScreen" />
+  <action id="ToggleZenMode" />
 </list>
