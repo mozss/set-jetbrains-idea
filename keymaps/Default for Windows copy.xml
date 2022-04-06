@@ -2,6 +2,9 @@
   <action id="ActivateNotebookToolWindow">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="QuickList.mozss_O_open">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="QuickList.used_mozss_L">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
