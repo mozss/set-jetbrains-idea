@@ -8,6 +8,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="lnk" type="Native" />
       <mapping ext="mmap" type="Native" />
       <mapping ext="url" type="Native" />
       <mapping ext="plantuml" type="PlantUML file" />
