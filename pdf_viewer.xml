@@ -1,0 +1,5 @@
+<application>
+  <component name="PdfViewerSettings">
+    <option name="defaultSidebarViewMode" value="OUTLINE" />
+  </component>
+</application>
