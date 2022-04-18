@@ -4,6 +4,7 @@
   <action id="ConfigureIcs" />
   <action id="ManageRecentProjects" />
   <action id="QuickList.$Separator$" />
+  <action id="RevealIn" />
   <action id="RecentFiles" />
   <action id="RecentChanges" />
   <action id="RecentChangedFiles" />
