@@ -1,4 +1,4 @@
-<list display="mozss_O_open" description="打开常用的项目和文件_导出文件">
+<list display="mozss_N_open" description="打开常用的项目和文件_导出文件">
   <action id="OpenFile" />
   <action id="JavaScriptDebugger.OpenUrl" />
   <action id="ConfigureIcs" />

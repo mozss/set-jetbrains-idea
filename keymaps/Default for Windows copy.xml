@@ -2,8 +2,14 @@
   <action id="ActivateNotebookToolWindow">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="QuickList.mozss_N_open">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="QuickList.mozss_O_open">
     <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="QuickList.mozss_R_write">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="QuickList.used_mozss_L">
     <keyboard-shortcut first-keystroke="alt l" />
@@ -11,4 +17,5 @@
   <action id="QuickList.used_mozss_S">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="randomness.ShowGroup" />
 </keymap>

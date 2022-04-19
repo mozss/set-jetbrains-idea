@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="740" />
     <option name="newTranslationDialogY" value="469" />
     <histories>
+      <item value="喷气式飞机" />
+      <item value="喷气式" />
       <item value="hello" />
       <item value="class Bits { Bits() { }" />
       <item value="hello&#10;" />
