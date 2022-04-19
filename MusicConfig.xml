@@ -1,0 +1,6 @@
+<application>
+  <component name="MusicConfig">
+    <option name="algorithmType" value="RANDOM_BOTH" />
+    <option name="onlyInEditor" value="true" />
+  </component>
+</application>
