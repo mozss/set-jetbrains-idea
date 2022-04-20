@@ -6,6 +6,10 @@
     <option name="newTranslationDialogX" value="531" />
     <option name="newTranslationDialogY" value="-712" />
     <histories>
+      <item value="Provides miscellaneous interceptor implementations. More specific interceptors can be found in corresponding functionality packages, like &quot;transaction&quot; and &quot;orm&quot;." />
+      <item value="Package containing Spring's basic AOP infrastructure, compliant with the AOP Alliance interfaces. Spring AOP supports proxying interfaces or classes, introductions, and offers static and dynamic pointcuts. Any Spring AOP proxy can be cast to the ProxyConfig AOP configuration interface in this package to add or remove interceptors. The ProxyFactoryBean is a convenient way to create AOP proxies in a BeanFactory or ApplicationContext. However, proxies can be created programmatically using the ProxyFactory class" />
+      <item value="AspectJ integration package. Includes Spring AOP advice implementations for AspectJ 5 annotation-style methods, and an AspectJExpressionPointcut: a Spring AOP Pointcut implementation that allows use of the AspectJ pointcut expression language with the Spring AOP runtime framework. Note that use of this package does not require the use of the ajc compiler or AspectJ load-time weaver. It is intended to enable the use of a valuable subset of AspectJ functionality, with consistent semantics, with the proxy-based Spring AOP framework." />
+      <item value="Support package for declarative AOP configuration, with XML schema being the primary configuration format." />
       <item value="Support for AOP-based scoping of target objects, with configurable backend." />
       <item value="alliance" />
       <item value="Description of an invocation to a method, given to an interceptor upon method-call. A method invocation is a joinpoint and can be intercepted by a method interceptor." />
@@ -35,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
