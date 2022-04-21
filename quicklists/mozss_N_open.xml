@@ -1,8 +1,8 @@
 <list display="mozss_N_open" description="打开常用的项目和文件_导出文件">
   <action id="OpenFile" />
+  <action id="ManageRecentProjects" />
   <action id="JavaScriptDebugger.OpenUrl" />
   <action id="ConfigureIcs" />
-  <action id="ManageRecentProjects" />
   <action id="QuickList.$Separator$" />
   <action id="RevealIn" />
   <action id="RecentFiles" />
