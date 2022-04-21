@@ -1,4 +1,4 @@
-<list display="mozss_N_open" description="打开常用的项目和文件_导出文件">
+<list display="used-mozss-N-新建项目-打开文件-new" description="打开常用的项目和文件_导出文件">
   <action id="OpenFile" />
   <action id="ManageRecentProjects" />
   <action id="JavaScriptDebugger.OpenUrl" />

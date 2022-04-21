@@ -1,4 +1,4 @@
-<list display="used_mozss_L" description="创建类文件-等相关文件">
+<list display="used-mozss-L-创建文件-Class" description="创建类文件-等相关文件">
   <action id="NewClass" />
   <action id="NewDir" />
   <action id="NewFile" />
