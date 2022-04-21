@@ -1,6 +1,7 @@
 <list display="used_mozss_S" description="用于常进行的平台级别的操作, 比如打开设置等">
   <action id="RunAnything" />
   <action id="ShowSettings" />
+  <action id="WelcomeScreen.Plugins" />
   <action id="ShowProjectStructureSettings" />
   <action id="QuickList.$Separator$" />
   <action id="TogglePresentationMode" />
