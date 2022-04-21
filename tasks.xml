@@ -1,10 +1,5 @@
 <application>
   <component name="TaskStorage">
-    <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1650500992250" actual="0" highlighted="false" highlightingtype="Red" title="测试任务" description="这是一个任务">
-        <task priority="Normal" completed="false" estimated="0" created="1650501081750" actual="0" highlighted="false" highlightingtype="Red" title="松" description="" />
-      </task>
-      <task priority="Normal" completed="false" estimated="0" created="1650501093449" actual="0" highlighted="false" highlightingtype="Red" title="" description="" />
-    </tasks>
+    <tasks />
   </component>
 </application>
