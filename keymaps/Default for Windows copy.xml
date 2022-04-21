@@ -25,6 +25,18 @@
   <action id="QuickList.mozss_R_write">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="QuickList.used-mozss-L-创建文件-Class">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="QuickList.used-mozss-N-新建项目-打开文件-new">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="QuickList.used-mozss-R-编辑输入-Write">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="QuickList.used-mozss-S-设置插件-Setting">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="QuickList.used_mozss_L">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
