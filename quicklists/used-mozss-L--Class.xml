@@ -1,6 +1,7 @@
 <list display="used-mozss-L-创建文件-Class" description="创建类文件-等相关文件">
   <action id="NewClass" />
   <action id="NewDir" />
+  <action id="Android.CreateSampleDataDirectory" />
   <action id="NewFile" />
   <action id="NewPackageInfo" />
   <action id="NewModuleInfo" />
