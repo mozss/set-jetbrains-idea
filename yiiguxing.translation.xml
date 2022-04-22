@@ -2,10 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="740" />
     <option name="newTranslationDialogY" value="-772" />
     <histories>
+      <item value="Return the persistent instance of the given entity class with the given identifier, or null if not found. This method is a thin wrapper around org.hibernate.Session.get(String, Serializable) for convenience. For an explanation of the exact semantics of this method, please do refer to the Hibernate API documentation in the first instance." />
       <item value="Exception hierarchy enabling sophisticated error handling independent of the data access approach in use. For example, when DAOs and data access frameworks use the exceptions in this package (and custom subclasses), calling code can detect and handle common problems such as deadlocks without being tied to a particular data access strategy, such as JDBC. &lt;p&gt;All these exceptions are unchecked, meaning that calling code can leave them uncaught and treat all data access exceptions as fatal. &lt;p&gt;The classes in this package are discussed in Chapter 9 of &lt;a href=&quot;https:www.amazon.comexecobidostgdetail-0764543857&quot;&gt;Expert One-On-One J2EE Design and Development&lt;a&gt; by Rod Johnson (Wrox, 2002). @NonNullApi @NonNullFields package org.springframework.dao; import org.springframework.lang.NonNullApi; import org.springframework.lang.NonNullFields;" />
       <item value=" Expert one on one J2EE design and development" />
       <item value="This package contains interfaces and classes for manipulating Java beans. It is used by most other Spring packages. &lt;p&gt;A BeanWrapper object may be used to set and get bean properties, singly or in bulk. &lt;p&gt;The classes in this package are discussed in Chapter 11 of &lt;a href=&quot;https:www.amazon.comexecobidostgdetail-0764543857&quot;&gt;Expert One-On-One J2EE Design and Development&lt;a&gt; by Rod Johnson (Wrox, 2002). @NonNullApi @NonNullFields package org.springframework.beans; import org.springframework.lang.NonNullApi; import org.springframework.lang.NonNullFields;" />
@@ -45,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
