@@ -40,6 +40,12 @@
   <action id="QuickList.used-mozss-S-设置插件-Setting">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="QuickList.used_mozss-D-设置markdown的相关操作">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="QuickList.used_mozss-M-设置markdown的相关操作">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="QuickList.used_mozss_L">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
