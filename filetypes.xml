@@ -12,6 +12,7 @@
       <mapping ext="lnk" type="Native" />
       <mapping ext="mmap" type="Native" />
       <mapping ext="url" type="Native" />
+      <mapping ext="epub" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
