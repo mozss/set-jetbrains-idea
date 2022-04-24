@@ -4,6 +4,7 @@
       <mapping pattern="02-见词知意-基础语法.md" type="AUTO_DETECTED" />
       <mapping pattern="ch03-immutable object.md" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="Link2Project_peak-coffee.md" type="AUTO_DETECTED" />
       <mapping pattern="ch12-主仆模式.md" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
