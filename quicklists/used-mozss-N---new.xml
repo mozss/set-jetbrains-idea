@@ -12,4 +12,6 @@
   <action id="QuickList.$Separator$" />
   <action id="JumpToNextChange" />
   <action id="JumpToLastChange" />
+  <action id="GoToLastProject" />
+  <action id="GoToProject" />
 </list>
