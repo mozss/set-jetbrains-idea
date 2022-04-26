@@ -1,4 +1,4 @@
-<list display="used_mozss-D-设置markdown的相关操作" description="markdown编写视图,编写命令相关指令">
+<list display="used_mozss-D(Markdown)-编辑_md操作" description="markdown编写视图,编写命令相关指令">
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.MarkdownIntroduceLinkReferenceAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />

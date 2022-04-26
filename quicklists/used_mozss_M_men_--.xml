@@ -1,0 +1,20 @@
+<list display="used_mozss_M(men)-关闭-文件" description="关闭窗口配置">
+  <action id="CloseProject" />
+  <action id="PinActiveEditorTab" />
+  <action id="CloseContent" />
+  <action id="CloseAllUnpinnedEditors" />
+  <action id="QuickList.$Separator$" />
+  <action id="TerminalSplitActionBase$Vertical" />
+  <action id="MoveTabRight" />
+  <action id="SplitHorizontally" />
+  <action id="MoveTabDown" />
+  <action id="QuickList.$Separator$" />
+  <action id="tasks.close" />
+  <action id="CloseActiveTab" />
+  <action id="QuickList.$Separator$" />
+  <action id="CloseAllUnmodifiedEditors" />
+  <action id="ReopenClosedTab" />
+  <action id="QuickList.$Separator$" />
+  <action id="Rainbow.ScopeHighlightingAction" />
+  <action id="Rainbow.ScopeOutsideHighlightingRestrainAction" />
+</list>

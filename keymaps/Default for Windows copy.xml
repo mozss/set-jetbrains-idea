@@ -40,17 +40,39 @@
   <action id="QuickList.used-mozss-S-设置插件-Setting">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="QuickList.used_mozss-D(Markdown)-编辑_md操作">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="QuickList.used_mozss-D-设置markdown的相关操作">
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="QuickList.used_mozss-L(Class)-新建_类-图-包">
+    <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="QuickList.used_mozss-M-设置markdown的相关操作">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="QuickList.used_mozss-N(New)-打开_项目-文件">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
+  <action id="QuickList.used_mozss-R(Write)-编辑_重构-复制">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="QuickList.used_mozss-S(Set)-设置_软件">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="QuickList.used_mozss_A(all/analyze)-逻辑_思考">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="QuickList.used_mozss_L">
     <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="QuickList.used_mozss_M(men)-关闭-文件">
+    <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="QuickList.used_mozss_S">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="Vcs.ToggleAmendCommitMode" />
   <action id="randomness.ShowGroup" />
 </keymap>
