@@ -1,4 +1,6 @@
 <list display="used_mozss-R(Write)-编辑_重构-复制" description="代码编写相关">
+  <action id="Debug" />
+  <action id="Run" />
   <action id="randomness.ShowGroup" />
   <action id="CopyFileName" />
 </list>
