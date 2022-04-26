@@ -2,6 +2,7 @@
   <action id="CloseProject" />
   <action id="PinActiveEditorTab" />
   <action id="CloseContent" />
+  <action id="CloseAllEditorsButActive" />
   <action id="CloseAllUnpinnedEditors" />
   <action id="QuickList.$Separator$" />
   <action id="TerminalSplitActionBase$Vertical" />
