@@ -3,6 +3,9 @@
   <action id="ShowSettings" />
   <action id="WelcomeScreen.Plugins" />
   <action id="ShowProjectStructureSettings" />
+  <action id="SaveFileAsTemplate" />
+  <action id="SaveProjectAsTemplate" />
+  <action id="ManageProjectTemplates" />
   <action id="QuickList.$Separator$" />
   <action id="TogglePresentationMode" />
   <action id="ToggleDistractionFreeMode" />
