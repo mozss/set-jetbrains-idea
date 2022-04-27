@@ -1,4 +1,4 @@
-<toolSet name="External Tools">
+<toolSet name="External Tools - Win10">
   <tool name="Office365_Excel" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE" />
@@ -46,6 +46,20 @@
       <option name="COMMAND" value="C:\Program Files\XnViewMP\xnviewmp.exe" />
       <option name="PARAMETERS" value="$FilePath$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Mind_xmind" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files (x86)\XMind\XMind.exe" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Mind_mindmanager" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Mindjet\MindManager 19\MindManager.exe" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" />
     </exec>
   </tool>
 </toolSet>
