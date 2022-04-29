@@ -2,10 +2,12 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="572" />
+    <option name="newTranslationDialogWidth" value="570" />
     <option name="newTranslationDialogX" value="1085" />
     <option name="newTranslationDialogY" value="-798" />
     <histories>
+      <item value="conscientious" />
+      <item value="conscientious&#10;" />
       <item value="交代" />
       <item value="交代&#10;" />
       <item value="没法交代" />
@@ -65,7 +67,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
+        <entry key="CHINESE" value="53" />
         <entry key="ENGLISH" value="53" />
         <entry key="LATIN" value="1" />
       </map>
