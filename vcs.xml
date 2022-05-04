@@ -98,9 +98,13 @@
           <option name="url" value="https://github.com/JameyWoo/gokv.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/7-sevens/Developer-Books.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\data-mozss\code\workspace-project-go" />
+    <option name="cloneParentDir" value="D:\TMP\TMP" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
