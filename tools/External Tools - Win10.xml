@@ -20,7 +20,7 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
-  <tool name="Typora" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="Markdown_Typora" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\Users\hello\AppData\Local\Programs\Typora\Typora.exe" />
       <option name="PARAMETERS" value="$FilePath$" />
@@ -60,6 +60,13 @@
       <option name="COMMAND" value="C:\Program Files\Mindjet\MindManager 19\MindManager.exe" />
       <option name="PARAMETERS" value="$FilePath$" />
       <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+  <tool name="test" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\explorer.exe" />
+      <option name="PARAMETERS" value="$FileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
