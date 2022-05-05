@@ -6,6 +6,7 @@
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="Link2Project_peak-coffee.md" type="AUTO_DETECTED" />
       <mapping pattern="ch12-主仆模式.md" type="AUTO_DETECTED" />
+      <mapping pattern="s" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
