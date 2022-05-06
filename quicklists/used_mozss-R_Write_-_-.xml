@@ -2,5 +2,10 @@
   <action id="Debug" />
   <action id="Run" />
   <action id="randomness.ShowGroup" />
+  <action id="QuickList.$Separator$" />
+  <action id="GithubCopyPathProvider" />
+  <action id="CopyTBXReference" />
   <action id="CopyFileName" />
+  <action id="CopyAbsolutePath" />
+  <action id="QuickList.$Separator$" />
 </list>

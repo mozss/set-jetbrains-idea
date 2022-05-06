@@ -1,9 +1,7 @@
 <list display="used_mozss_M(men)-关闭-文件" description="关闭窗口配置">
-  <action id="CloseProject" />
-  <action id="PinActiveEditorTab" />
   <action id="CloseContent" />
-  <action id="CloseAllEditorsButActive" />
   <action id="CloseAllUnpinnedEditors" />
+  <action id="PinActiveEditorTab" />
   <action id="QuickList.$Separator$" />
   <action id="TerminalSplitActionBase$Vertical" />
   <action id="MoveTabRight" />
