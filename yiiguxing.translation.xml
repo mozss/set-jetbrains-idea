@@ -2,10 +2,30 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="570" />
-    <option name="newTranslationDialogX" value="1085" />
-    <option name="newTranslationDialogY" value="-798" />
+    <option name="newTranslationDialogWidth" value="558" />
+    <option name="newTranslationDialogX" value="463" />
+    <option name="newTranslationDialogY" value="-931" />
     <histories>
+      <item value="正中靶心" />
+      <item value="正中" />
+      <item value="目标结果一致" />
+      <item value="目标结果" />
+      <item value="目标" />
+      <item value="目标结" />
+      <item value="目标结构" />
+      <item value="质检" />
+      <item value="质量" />
+      <item value="质量&#10;" />
+      <item value="监管部门" />
+      <item value="监管" />
+      <item value="punish&#10;" />
+      <item value="punish" />
+      <item value="disciplin" />
+      <item value="discipline" />
+      <item value="不良后果" />
+      <item value="不良" />
+      <item value="严重后果" />
+      <item value="严重" />
       <item value="conscientious" />
       <item value="conscientious&#10;" />
       <item value="交代" />
@@ -67,14 +87,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="54" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650967441715" />
+    <option name="lastTrimTime" value="1651811071698" />
   </component>
   <component name="Settings">
     <option name="showExplanation" value="true" />
