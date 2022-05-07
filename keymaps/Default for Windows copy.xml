@@ -19,6 +19,16 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
+  <action id="EditorContextInfo" />
+  <action id="GoToLastProject">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="GoToProject">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
+  <action id="Private.Notes.add">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="QuickList.mozss_N_open">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
