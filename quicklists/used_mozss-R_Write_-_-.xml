@@ -7,5 +7,6 @@
   <action id="CopyTBXReference" />
   <action id="CopyFileName" />
   <action id="CopyAbsolutePath" />
+  <action id="CopyReference" />
   <action id="QuickList.$Separator$" />
 </list>
