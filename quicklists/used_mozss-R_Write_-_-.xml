@@ -9,4 +9,6 @@
   <action id="CopyAbsolutePath" />
   <action id="CopyReference" />
   <action id="QuickList.$Separator$" />
+  <action id="one.util.ideaplugin.screenshoter.CopyImageAction" />
+  <action id="one.util.ideaplugin.screenshoter.SaveImageAction" />
 </list>

@@ -84,5 +84,6 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="Vcs.ToggleAmendCommitMode" />
+  <action id="one.util.ideaplugin.screenshoter.CopyImageAction" />
   <action id="randomness.ShowGroup" />
 </keymap>
