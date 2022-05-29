@@ -1190,23 +1190,31 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
+                <option name="finished" value="true" />
                 <option name="id" value="17145319" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
+                <option name="finished" value="true" />
                 <option name="id" value="17145119" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
+                <option name="finished" value="true" />
                 <option name="id" value="17145702" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
+                <option name="finished" value="true" />
                 <option name="id" value="17147412" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="17147414" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="17148375" />
               </RHBaseItem>
             </list>
           </value>
