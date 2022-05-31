@@ -11,4 +11,6 @@
   <action id="QuickList.$Separator$" />
   <action id="one.util.ideaplugin.screenshoter.CopyImageAction" />
   <action id="one.util.ideaplugin.screenshoter.SaveImageAction" />
+  <action id="MultiHighlight" />
+  <action id="MultiHighlight.ClearAction" />
 </list>
