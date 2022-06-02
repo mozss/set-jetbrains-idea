@@ -2,4 +2,7 @@
   <component name="sequenceParams">
     <option name="callDepth" value="10" />
   </component>
+  <component name="sequencePlugin">
+    <option name="USE_3D_VIEW" value="true" />
+  </component>
 </application>
