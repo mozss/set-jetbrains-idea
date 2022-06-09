@@ -1,0 +1,5 @@
+<list display="used_mozss_F(注释相关操作)">
+  <action id="Private.Notes.add" />
+  <action id="ToggleRenderedDocPresentation" />
+  <action id="$TranslateDocumentationAction" />
+</list>

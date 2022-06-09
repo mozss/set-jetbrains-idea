@@ -26,9 +26,7 @@
   <action id="GoToProject">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
-  <action id="Private.Notes.add">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
+  <action id="Private.Notes.add" />
   <action id="QuickList.mozss_N_open">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
@@ -73,6 +71,9 @@
   </action>
   <action id="QuickList.used_mozss_A(all/analyze)-逻辑_思考">
     <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="QuickList.used_mozss_F(注释相关操作)">
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="QuickList.used_mozss_L">
     <keyboard-shortcut first-keystroke="alt l" />
