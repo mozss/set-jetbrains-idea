@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="02-见词知意-基础语法.md" type="AUTO_DETECTED" />
       <mapping pattern="ch03-immutable object.md" type="AUTO_DETECTED" />
+      <mapping pattern="tmp" type="AUTO_DETECTED" />
       <mapping pattern="0fe841c039daf8c34c3b5ef4ee73588ca5e79cad" type="AUTO_DETECTED" />
       <mapping pattern="0db007fa283975d47b4406118db0ebe707f66ff7" type="AUTO_DETECTED" />
       <mapping pattern="test" type="AUTO_DETECTED" />
