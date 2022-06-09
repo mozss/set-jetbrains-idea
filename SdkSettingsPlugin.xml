@@ -2,6 +2,8 @@
   <component name="org.intellij.sdk.settings.AppSettingsState">
     <option name="maxNumOfChars" value="50" />
     <option name="fontSize" value="12" />
-    <option name="selectedTabColor" value="-7346299" />
+    <option name="overrideTabsColor" value="true" />
+    <option name="selectedTabColor" value="-10972336" />
+    <option name="tabsColor" value="-1611417" />
   </component>
 </application>
