@@ -2,10 +2,56 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="100" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="552" />
+    <option name="newTranslationDialogHeight" value="458" />
+    <option name="newTranslationDialogWidth" value="460" />
     <option name="newTranslationDialogX" value="711" />
     <option name="newTranslationDialogY" value="-1020" />
     <histories>
+      <item value="Contains classes related to developing beans -- components based on the JavaBeans™ architecture." />
+      <item value="Provides for system input and output through data streams, serialization and the file system." />
+      <item value="Provides classes that are fundamental to the design of the Java programming language." />
+      <item value="Provides classes for reading and writing the standard ZIP and GZIP file formats." />
+      <item value="Classes to support functional-style operations on streams of elements, such as map-reduce transformations on collections." />
+      <item value="Service provider classes for the classes in the java.util package" />
+      <item value="Service provider classes for the classes in the java.util package." />
+      <item value="Classes for matching character sequences against patterns specified by regular expressions." />
+      <item value="This package allows applications to store and retrieve user and system preference and configuration data." />
+      <item value="Provides the classes and interfaces of the JavaTM 2 platform's core logging facilities." />
+      <item value="Provides classes for reading and writing the JAR (Java ARchive) file format, which is based on the standard ZIP file format with an optional manifest file." />
+      <item value="Functional interfaces provide target types for lambda expressions and method references." />
+      <item value="Interfaces and classes providing a framework for locking and waiting for conditions that is distinct from built-in synchronization and monitors." />
+      <item value="A small toolkit of classes that support lock-free thread-safe programming on single variables." />
+      <item value="Utility classes commonly useful in concurrent programming." />
+      <item value="Contains the collections framework, legacy collection classes, event model, date and time facilities, internationalization, and miscellaneous utility classes (a string tokenizer, a random-number generator, and a bit array)." />
+      <item value="Support for time-zones and their rules." />
+      <item value="Access to date and time using fields and units, and date time adjusters." />
+      <item value="Provides classes to print and parse dates and times." />
+      <item value="Generic API for calendar systems other than the default ISO." />
+      <item value="The main API for dates, times, instants, and durations." />
+      <item value="Provides classes and interfaces for handling text, dates, numbers, and messages in a manner independent of natural languages." />
+      <item value="Provides the API for accessing and processing data stored in a data source (usually a relational database) using the JavaTM programming language." />
+      <item value="Provides classes and interfaces for key specifications and algorithm parameter specifications." />
+      <item value="Provides interfaces for generating RSA (Rivest, Shamir and Adleman AsymmetricCipher algorithm) keys as defined in the RSA Laboratory Technical Note PKCS#1, and DSA (Digital Signature Algorithm) keys as defined in NIST's FIPS-186." />
+      <item value="提供用于解析和管理证书、证书吊销列表 (CRL) 和证书路径的类和接口。" />
+      <item value="Provides classes and interfaces for parsing and managing certificates, certificate revocation lists (CRLs), and certification paths." />
+      <item value="The classes and interfaces in this package have been superseded by classes in the java.security package." />
+      <item value="Provides the classes and interfaces for the security framework." />
+      <item value="Provides classes and interfaces for supporting the server side of RMI." />
+      <item value="Provides a class and two interfaces for the RMI registry." />
+      <item value="Provides classes and interface for RMI distributed garbage-collection (DGC)." />
+      <item value="Provides support for RMI Object Activation." />
+      <item value="Interfaces and classes providing access to file and file system attributes." />
+      <item value="Defines interfaces and classes for the Java virtual machine to access files, file attributes, and file systems." />
+      <item value="Defines charsets, decoders, and encoders, for translating between bytes and Unicode characters." />
+      <item value="Service-provider classes for the java.nio.channels package." />
+      <item value="Defines channels, which represent connections to entities that are capable of performing I/O operations, such as files and sockets; defines selectors, for multiplexed, non-blocking I/O operations." />
+      <item value="Defines buffers, which are containers for data, and provides an overview of the other NIO packages." />
+      <item value="Provides the classes for implementing networking applications." />
+      <item value="Provides classes for performing arbitrary-precision integer arithmetic (BigInteger) and arbitrary-precision decimal arithmetic (BigDecimal)." />
+      <item value="Provides reference-object classes, which support a limited degree of interaction with the garbage collector." />
+      <item value="Provides classes and interfaces for obtaining reflective information about classes and objects." />
+      <item value="Provides the management interfaces for monitoring and management of the Java virtual machine and other components in the Java runtime." />
+      <item value="The java.lang.invoke package contains dynamic language support provided directly by the Java core class libraries and virtual machine." />
       <item value="你从事什么职业" />
       <item value="你从事什么" />
       <item value="你从事" />
@@ -61,41 +107,11 @@
       <item value="ubinterface of AOP Alliance Advice that allows additional interfaces to be implemented by an Advice, and available via a proxy using that interceptor. This is a fundamental AOP concept called introduction. Introductions are often mixins, enabling the building of composite objects that can achieve many of the goals of multiple inheritance in Java. Compared to IntroductionInfo, this interface allows an advice to implement a range of interfaces that is not necessarily known in advance. Thus an IntroductionAdvisor can be used to specify which interfaces will be exposed in an advised obje" />
       <item value="Filter that restricts matching of a pointcut or introduction to a given set of target classes. Can be used as part of a Pointcut or for the entire targeting of an IntroductionAdvisor. Concrete implementations of this interface typically should provide proper implementations of Object.equals(Object) and Object.hashCode() in order to allow the filter to be used in caching scenarios — for example, in proxies generated by CGLIB" />
       <item value="Base interface holding AOP advice (action to take at a joinpoint) and a filter determining the applicability of the advice (such as a pointcut). This interface is not for use by Spring users, but to allow for commonality in support for different types of advice. Spring AOP is based around around advice delivered via method interception, compliant with the AOP Alliance interception API. The Advisor interface allows support for different types of advice, such as before and after advice, which need not be implemented using interception." />
-      <item value="Provides miscellaneous interceptor implementations. More specific interceptors can be found in corresponding functionality packages, like &quot;transaction&quot; and &quot;orm&quot;." />
-      <item value="Package containing Spring's basic AOP infrastructure, compliant with the AOP Alliance interfaces. Spring AOP supports proxying interfaces or classes, introductions, and offers static and dynamic pointcuts. Any Spring AOP proxy can be cast to the ProxyConfig AOP configuration interface in this package to add or remove interceptors. The ProxyFactoryBean is a convenient way to create AOP proxies in a BeanFactory or ApplicationContext. However, proxies can be created programmatically using the ProxyFactory class" />
-      <item value="AspectJ integration package. Includes Spring AOP advice implementations for AspectJ 5 annotation-style methods, and an AspectJExpressionPointcut: a Spring AOP Pointcut implementation that allows use of the AspectJ pointcut expression language with the Spring AOP runtime framework. Note that use of this package does not require the use of the ajc compiler or AspectJ load-time weaver. It is intended to enable the use of a valuable subset of AspectJ functionality, with consistent semantics, with the proxy-based Spring AOP framework." />
-      <item value="Support package for declarative AOP configuration, with XML schema being the primary configuration format." />
-      <item value="Support for AOP-based scoping of target objects, with configurable backend." />
-      <item value="alliance" />
-      <item value="Description of an invocation to a method, given to an interceptor upon method-call. A method invocation is a joinpoint and can be intercepted by a method interceptor." />
-      <item value="This interface represents an invocation in the program. An invocation is a joinpoint and can be intercepted by an interceptor." />
-      <item value="Interceptor" />
-      <item value="Joinpoint" />
-      <item value="Invocation" />
-      <item value="Constructor Interceptor" />
-      <item value="Superclass for all AOP infrastructure exceptions. Unchecked, as such exceptions are fatal and end user code shouldn't be forced to catch them." />
-      <item value="Copyright 2002-2018 the original author or authors. Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at https:www.apache.orglicensesLICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
-      <item value="public static void main(String[] args) { System.out.println(969);" />
-      <item value="喷气式飞机" />
-      <item value="喷气式" />
-      <item value="hello" />
-      <item value="class Bits { Bits() { }" />
-      <item value="hello&#10;" />
-      <item value="&lt;p&gt;Drop in replacement for the standard class loader of the JVM. You can use it in conjunction with the JavaWrapper to dynamically modifycreate classes as they're requested.&lt;p&gt; &lt;p&gt;This class loader recognizes special requests in a distinct format, i.e., when the name of the requested class contains with &quot;BCEL&quot; it calls the createClass() method with that name (everything bevor the BCEL is considered to be the package name. You can subclass the class loader and override that method. &quot;Normal&quot; classes class can be modified by overriding the modifyClass() method which is called just before defineClass().&lt;p&gt; &lt;p&gt;There may be a number of packages where you have to use the default class loader (which may also be faster). You can define the set of packages where to use the system class loader in the constructor. The default value contains &quot;java.&quot;, &quot;sun.&quot;, &quot;javax.&quot;&lt;p&gt;" />
-      <item value="read(List&lt;Integer&gt; list) { super(&quot;ReaderThre" />
-      <item value="p" />
-      <item value="Copyright (c) $today.year. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan. Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna. Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus. Vestibulum commodo. Ut rhoncus gravida arcu." />
-      <item value="transformation" />
-      <item value="recording" />
-      <item value="Unlock Commercial Features" />
-      <item value="https" />
-      <item value="hierarchy" />
-      <item value="println" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="63" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
