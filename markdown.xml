@@ -7,8 +7,8 @@
   </component>
   <component name="MarkdownExtensionsSettings">
     <enabledExtensions>
-      <entry key="MermaidLanguageExtension" value="true" />
-      <entry key="PlantUMLLanguageExtension" value="true" />
+      <entry key="MermaidLanguageExtension" value="false" />
+      <entry key="PlantUMLLanguageExtension" value="false" />
     </enabledExtensions>
   </component>
 </application>
