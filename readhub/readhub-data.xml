@@ -7,16 +7,19 @@
             <list>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="8gO8ZTPIaoV" />
                 <option name="order" value="439287" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="8gO4599mSaW" />
                 <option name="order" value="439266" />
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="8gNWZDYdI6x" />
                 <option name="order" value="439258" />
               </RHBaseItem>
