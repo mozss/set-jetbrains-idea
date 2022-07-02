@@ -3,10 +3,41 @@
     <option name="maxHistorySize" value="100" />
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="458" />
-    <option name="newTranslationDialogWidth" value="460" />
-    <option name="newTranslationDialogX" value="711" />
-    <option name="newTranslationDialogY" value="-1020" />
+    <option name="newTranslationDialogWidth" value="458" />
+    <option name="newTranslationDialogX" value="1407" />
+    <option name="newTranslationDialogY" value="-1002" />
     <histories>
+      <item value="Web Services client utilities" />
+      <item value="Utilities and classes related to validation" />
+      <item value="Contains miscellaneous utility classes" />
+      <item value="Support classes for reading annotation and class-level metadata." />
+      <item value="Utilities and classes related to task execution and scheduling" />
+      <item value="General system support classes" />
+      <item value="Support for initialization of an SQL database" />
+      <item value="Classes and utilities for Spring Security" />
+      <item value="Support classes for Reactor integration" />
+      <item value="Support for R2DBC connectivity." />
+      <item value="JPA Support classes" />
+      <item value="Support for item origin tracking." />
+      <item value="Support and abstractions across several logging libraries." />
+      <item value="Custom support for Liquibase database migration." />
+      <item value="Support for parsing JSON." />
+      <item value="Support for jOOQ" />
+      <item value="Support for Java Message Service (JMS)." />
+      <item value="Support for Java Database Connectivity (JDBC)" />
+      <item value="Custom enhancements and support for the Jackson project" />
+      <item value="Support for providing information about an application." />
+      <item value="Custom support for Flyway database migration." />
+      <item value="Spring {@link org.springframework.core.env.Environment} support" />
+      <item value="Support for failure analysis and reporting" />
+      <item value="Support for type conversion." />
+      <item value="Classes related to Spring's {@link org.springframework.context.ApplicationContext}." />
+      <item value="Low level support for Cloud deployments" />
+      <item value="Fluent 'builder' style API to construct a" />
+      <item value="Support for describing the availability of Spring Boot applications." />
+      <item value="Support classes to provide ANSI color output" />
+      <item value="Administration support for Spring Boot applications." />
+      <item value="Core Spring Boot classes" />
       <item value="Contains classes related to developing beans -- components based on the JavaBeans™ architecture." />
       <item value="Provides for system input and output through data streams, serialization and the file system." />
       <item value="Provides classes that are fundamental to the design of the Java programming language." />
@@ -76,42 +107,11 @@
       <item value="disciplin" />
       <item value="discipline" />
       <item value="不良后果" />
-      <item value="不良" />
-      <item value="严重后果" />
-      <item value="严重" />
-      <item value="conscientious" />
-      <item value="conscientious&#10;" />
-      <item value="交代" />
-      <item value="交代&#10;" />
-      <item value="没法交代" />
-      <item value="没法" />
-      <item value="承诺&#10;" />
-      <item value="诚信" />
-      <item value="承诺" />
-      <item value="适应环境" />
-      <item value="适应" />
-      <item value="积累" />
-      <item value="compoun" />
-      <item value="compound" />
-      <item value="复利" />
-      <item value="复利&#10;" />
-      <item value="复利&#10;&#10;" />
-      <item value="积累&#10;" />
-      <item value="管控&#10;" />
-      <item value="智库&#10;" />
-      <item value="智库" />
-      <item value="Return the persistent instance of the given entity class with the given identifier, or null if not found. This method is a thin wrapper around org.hibernate.Session.get(String, Serializable) for convenience. For an explanation of the exact semantics of this method, please do refer to the Hibernate API documentation in the first instance." />
-      <item value="Exception hierarchy enabling sophisticated error handling independent of the data access approach in use. For example, when DAOs and data access frameworks use the exceptions in this package (and custom subclasses), calling code can detect and handle common problems such as deadlocks without being tied to a particular data access strategy, such as JDBC. &lt;p&gt;All these exceptions are unchecked, meaning that calling code can leave them uncaught and treat all data access exceptions as fatal. &lt;p&gt;The classes in this package are discussed in Chapter 9 of &lt;a href=&quot;https:www.amazon.comexecobidostgdetail-0764543857&quot;&gt;Expert One-On-One J2EE Design and Development&lt;a&gt; by Rod Johnson (Wrox, 2002). @NonNullApi @NonNullFields package org.springframework.dao; import org.springframework.lang.NonNullApi; import org.springframework.lang.NonNullFields;" />
-      <item value=" Expert one on one J2EE design and development" />
-      <item value="This package contains interfaces and classes for manipulating Java beans. It is used by most other Spring packages. &lt;p&gt;A BeanWrapper object may be used to set and get bean properties, singly or in bulk. &lt;p&gt;The classes in this package are discussed in Chapter 11 of &lt;a href=&quot;https:www.amazon.comexecobidostgdetail-0764543857&quot;&gt;Expert One-On-One J2EE Design and Development&lt;a&gt; by Rod Johnson (Wrox, 2002). @NonNullApi @NonNullFields package org.springframework.beans; import org.springframework.lang.NonNullApi; import org.springframework.lang.NonNullFields;" />
-      <item value="ubinterface of AOP Alliance Advice that allows additional interfaces to be implemented by an Advice, and available via a proxy using that interceptor. This is a fundamental AOP concept called introduction. Introductions are often mixins, enabling the building of composite objects that can achieve many of the goals of multiple inheritance in Java. Compared to IntroductionInfo, this interface allows an advice to implement a range of interfaces that is not necessarily known in advance. Thus an IntroductionAdvisor can be used to specify which interfaces will be exposed in an advised obje" />
-      <item value="Filter that restricts matching of a pointcut or introduction to a given set of target classes. Can be used as part of a Pointcut or for the entire targeting of an IntroductionAdvisor. Concrete implementations of this interface typically should provide proper implementations of Object.equals(Object) and Object.hashCode() in order to allow the filter to be used in caching scenarios — for example, in proxies generated by CGLIB" />
-      <item value="Base interface holding AOP advice (action to take at a joinpoint) and a filter determining the applicability of the advice (such as a pointcut). This interface is not for use by Spring users, but to allow for commonality in support for different types of advice. Spring AOP is based around around advice delivered via method interception, compliant with the AOP Alliance interception API. The Advisor interface allows support for different types of advice, such as before and after advice, which need not be implemented using interception." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="110" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="95" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
