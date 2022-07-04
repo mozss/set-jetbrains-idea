@@ -9355,6 +9355,66 @@
               <RHBaseItem>
                 <option name="id" value="17414742" />
               </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17415015" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414999" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17415017" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414989" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414997" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17415013" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17415000" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414994" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414993" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414992" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17415001" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414961" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414980" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414998" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414960" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414973" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414956" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414957" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414952" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="id" value="17414963" />
+              </RHBaseItem>
             </list>
           </value>
         </entry>
@@ -11716,6 +11776,14 @@
               <RHBaseItem>
                 <option name="category" value="TECH_NEWS" />
                 <option name="id" value="17414776" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="17414947" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="TECH_NEWS" />
+                <option name="id" value="17414889" />
               </RHBaseItem>
             </list>
           </value>
@@ -14931,6 +14999,14 @@
               <RHBaseItem>
                 <option name="category" value="BLOCKCHAIN" />
                 <option name="id" value="17414065" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="17414893" />
+              </RHBaseItem>
+              <RHBaseItem>
+                <option name="category" value="BLOCKCHAIN" />
+                <option name="id" value="17414860" />
               </RHBaseItem>
             </list>
           </value>
