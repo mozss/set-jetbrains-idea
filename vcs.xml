@@ -126,9 +126,13 @@
           <option name="url" value="https://github.com/mozss/jOOQ.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mozss/read-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\data-mozss\code\workspace-project-com-data-geekery" />
+    <option name="cloneParentDir" value="D:\data-mozss\code\workspace-project\it\read" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
