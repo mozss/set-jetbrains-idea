@@ -4,4 +4,9 @@
   <action id="tasks.close" />
   <action id="tasks.edit" />
   <action id="tasks.analyze.stacktrace" />
+  <action id="tasks.configure.servers" />
+  <action id="QuickList.$Separator$" />
+  <action id="context.save" />
+  <action id="context.load" />
+  <action id="context.clear" />
 </list>
