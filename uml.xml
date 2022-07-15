@@ -1,11 +1,11 @@
 <application>
   <component name="UmlConfiguration">
-    <option name="layout" value="HIERARCHIC_COMPACT" />
+    <option name="layout" value="BALLOON" />
     <option name="fitContentAfterLayout" value="true" />
     <option name="relayoutOnNewElements" value="false" />
     <option name="categories">
       <map>
-        <entry id="JAVA" categories="字段;构造函数;方法;属性;内部类;显示循环" />
+        <entry id="JAVA" categories="显示用法;其他" />
         <entry id="MODULES" categories="库;测试依赖关系;显示路径: 根 -&gt; 选择;显示所选节点的近邻" />
         <entry id="Microservices" categories="从测试;从库;显示所选节点的近邻" />
       </map>
