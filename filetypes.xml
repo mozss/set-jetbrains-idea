@@ -11,7 +11,6 @@
       <mapping pattern="ch12-主仆模式.md" type="AUTO_DETECTED" />
       <mapping pattern="s" type="AUTO_DETECTED" />
       <mapping pattern="自平衡二叉搜索树sbbst.md" type="AUTO_DETECTED" />
-      <removed_mapping pattern="**spring-configuration-metadata.json" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -22,16 +21,7 @@
       <mapping ext="epub" type="PLAIN_TEXT" />
       <mapping ext="mobi" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
-      <removed_mapping pattern="bootstrap-**.properties" type="Properties" />
-      <removed_mapping pattern="application.properties" type="Properties" />
-      <removed_mapping pattern="application-**.properties" type="Properties" />
-      <removed_mapping pattern="bootstrap.properties" type="Properties" />
-      <removed_mapping pattern="bootstrap-**.y**ml" type="YAML" />
-      <removed_mapping pattern="bootstrap.yaml" type="YAML" />
-      <removed_mapping pattern="application-**.y**ml" type="YAML" />
-      <removed_mapping pattern="bootstrap.yml" type="YAML" />
-      <removed_mapping pattern="application.yml" type="YAML" />
-      <removed_mapping pattern="application.yaml" type="YAML" />
+      <removed_mapping pattern="**spring-configuration-metadata.json" approved="true" type="JSON" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
@@ -39,8 +29,18 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sql" approved="true" type="SQL" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
+      <removed_mapping pattern="application-**.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="application-**.y**ml" approved="true" type="YAML" />
+      <removed_mapping pattern="application.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="application.yaml" approved="true" type="YAML" />
       <removed_mapping pattern="application.yaml" approved="true" type="spring-boot-properties-yaml" />
+      <removed_mapping pattern="application.yml" approved="true" type="YAML" />
       <removed_mapping pattern="application.yml" approved="true" type="spring-boot-properties-yaml" />
+      <removed_mapping pattern="bootstrap-**.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="bootstrap-**.y**ml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap.properties" approved="true" type="Properties" />
+      <removed_mapping pattern="bootstrap.yaml" approved="true" type="YAML" />
+      <removed_mapping pattern="bootstrap.yml" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
