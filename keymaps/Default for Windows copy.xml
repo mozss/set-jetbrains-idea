@@ -84,6 +84,12 @@
   <action id="QuickList.used_mozss_S">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="QuickList.used_mozss_X(WindowX)-窗口相关">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="QuickList.used_mozss_Z(Zen)-窗口">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="Vcs.ToggleAmendCommitMode" />
   <action id="one.util.ideaplugin.screenshoter.CopyImageAction" />
   <action id="randomness.ShowGroup" />
