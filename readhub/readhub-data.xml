@@ -12,6 +12,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="8hLTR4PBuBI" />
                 <option name="order" value="448134" />
               </RHBaseItem>
@@ -27,6 +28,7 @@
               </RHBaseItem>
               <RHBaseItem>
                 <option name="category" value="TOPIC" />
+                <option name="finished" value="true" />
                 <option name="id" value="8hLZLGNomHE" />
                 <option name="order" value="448106" />
               </RHBaseItem>
