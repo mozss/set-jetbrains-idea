@@ -33,7 +33,8 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
