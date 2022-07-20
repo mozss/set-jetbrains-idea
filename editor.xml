@@ -43,6 +43,7 @@
     <option name="SHOW_INTENTION_PREVIEW" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
   <component name="GivServiceSettings">
     <option name="homePage" value="https://www.baidu.com/" />
