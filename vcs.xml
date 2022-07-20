@@ -134,9 +134,13 @@
           <option name="url" value="https://github.com/mozss/mozss-it-plan.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mozss/moquette.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\data-mozss\code\workspace-project" />
+    <option name="cloneParentDir" value="D:\data-mozss\code\workspace-project\it\open" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
