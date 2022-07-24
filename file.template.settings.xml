@@ -1,0 +1,7 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="hexo_markdown-带标题.md" reformat="false" live-template-enabled="false" />
+    </default_templates>
+  </component>
+</application>
