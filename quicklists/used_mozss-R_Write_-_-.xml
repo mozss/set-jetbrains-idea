@@ -2,6 +2,7 @@
   <action id="Debug" />
   <action id="Run" />
   <action id="randomness.ShowGroup" />
+  <action id="ReformatCode" />
   <action id="QuickList.$Separator$" />
   <action id="GithubCopyPathProvider" />
   <action id="CopyTBXReference" />
@@ -9,8 +10,6 @@
   <action id="CopyAbsolutePath" />
   <action id="CopyReference" />
   <action id="QuickList.$Separator$" />
-  <action id="one.util.ideaplugin.screenshoter.CopyImageAction" />
-  <action id="one.util.ideaplugin.screenshoter.SaveImageAction" />
   <action id="MultiHighlight" />
   <action id="MultiHighlight.ClearAction" />
 </list>
