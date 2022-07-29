@@ -9,9 +9,8 @@
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="25600" />
     <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
-    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="EDITOR_TAB_PLACEMENT" value="2" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
-    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
@@ -22,9 +21,8 @@
     <option name="RECENT_LOCATIONS_LIMIT" value="200" />
     <option name="RIGHT_HORIZONTAL_SPLIT" value="true" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
-    <option name="SHOW_NAVIGATION_BAR" value="false" />
-    <option name="SHOW_STATUS_BAR" value="false" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
     <option name="CONTRAST_SCROLLBARS" value="true" />
