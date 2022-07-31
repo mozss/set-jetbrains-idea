@@ -19,6 +19,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
   </action>
+  <action id="CopyContentRootPath">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="EditorContextInfo" />
   <action id="GoToLastProject">
     <keyboard-shortcut first-keystroke="alt p" />
