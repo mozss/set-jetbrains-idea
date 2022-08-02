@@ -7,6 +7,7 @@
     <option name="newTranslationDialogX" value="747" />
     <option name="newTranslationDialogY" value="-1022" />
     <histories>
+      <item value="Unresolved plugin: " />
       <item value="Abstract base class for DataFieldMaxValueIncrementer implementations that use a database sequence. Subclasses need to provide the database-specific SQL to use." />
       <item value="&lt;h2&gt;About Moquette MQT broker&lt;h2&gt;&#10; &#10;&lt;p&gt;June 11, 2014&lt;p&gt;&#9;&#10;&lt;h3&gt;License&lt;h3&gt;&#10;&#10;&lt;p&gt;The Content is provided to you under the terms and conditions of the&#10;Eclipse Public License Version 1.0 (&amp;quot;EPL&amp;quot;).  A copy of the EPL is available &#10;at &lt;a href=&quot;http:www.eclipse.orglegalepl-v10.html&quot;&gt;http:www.eclipse.orglegalepl-v10.html&lt;a&gt;.&#10;For purposes of the EPL, &amp;quot;Program&amp;quot; will mean the Content.&lt;p&gt;&#10;&#10;&lt;p&gt;The Content is &#10;being redistributed by another party (&amp;quot;Redistributor&amp;quot;) and different terms and conditions may&#10;apply to your use of any object code in the Content.  Check the Redistributor's license that was &#10;provided with the Content.  If no such license exists, contact the Redistributor.  Unless otherwise&#10;indicated below, the terms and conditions of the EPL still apply to any source code in the Content&#10;and such source code may be obtained at &lt;a href=&quot;http:www.eclipse.org&quot;&gt;http:www.eclipse.org&lt;a&gt;.&lt;p&gt;&#10;&#10;&lt;body" />
       <item value="&lt;!DOCTYPE html PUBLIC &quot;-W3CDTD XHTML 1.0 StrictEN&quot; &quot;http:www.w3.orgTRxhtml1DTDxhtml1-strict.dtd&quot;&gt; &lt;html xmlns=&quot;http:www.w3.org1999xhtml&quot;&gt; &lt;head&gt; &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;texthtml; charset=ISO-8859-1&quot;&gt; &lt;title&gt;About&lt;title&gt; &lt;head&gt; &lt;body lang=&quot;EN-US&quot;&gt; &lt;h2&gt;About Moquette MQT broker&lt;h2&gt; &lt;p&gt;June 11, 2014&lt;p&gt; &lt;h3&gt;License&lt;h3&gt; &lt;p&gt;The Content is provided to you under the terms and conditions of the Eclipse Public License Version 1.0 (&amp;quot;EPL&amp;quot;). A copy of the EPL is available at &lt;a href=&quot;http:www.eclipse.orglegalepl-v10.html&quot;&gt;http:www.eclipse.orglegalepl-v10.html&lt;a&gt;. For purposes of the EPL, &amp;quot;Program&amp;quot; will mean the Content.&lt;p&gt; &lt;p&gt;The Content is being redistributed by another party (&amp;quot;Redistributor&amp;quot;) and different terms and conditions may apply to your use of any object code in the Content. Check the Redistributor's license that was provided with the Content. If no such license exists, contact the Redistributor. Unless otherwise indicated below, the terms and conditions of the EPL still apply to any source code in the Content and such source code may be obtained at &lt;a href=&quot;http:www.eclipse.org&quot;&gt;http:www.eclipse.org&lt;a&gt;.&lt;p&gt; &lt;body&gt; &lt;html&gt;" />
@@ -113,7 +114,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
