@@ -1,0 +1,8 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="算法-排序.java" reformat="false" live-template-enabled="false" />
+      <template name="算法-通用.java" reformat="false" live-template-enabled="false" />
+    </default_templates>
+  </component>
+</application>
