@@ -122,12 +122,18 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663582487647" />
+    <option name="lastTrimTime" value="1667463623720" />
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20221103001434125" />
+      </app-key>
+    </option>
     <option name="keepFormat" value="true" />
     <option name="showExplanation" value="true" />
     <option name="takeWordWhenDialogOpens" value="true" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
