@@ -3,6 +3,7 @@
     <notification groupId="gittoolbox.fetch.info" displayType="NONE" shouldLog="false" />
     <notification groupId="Key Promoter X" displayType="NONE" />
     <notification groupId="Pomodoro Notifications" displayType="STICKY_BALLOON" playSound="true" />
+    <notification groupId="Vcs Important Messages" displayType="NONE" shouldLog="false" />
     <notification groupId="Vcs Notifications" displayType="NONE" shouldLog="false" />
   </component>
 </application>
