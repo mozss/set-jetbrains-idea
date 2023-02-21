@@ -142,4 +142,15 @@
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Key classes you're most likely to interact with are:" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
