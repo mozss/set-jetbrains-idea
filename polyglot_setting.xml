@@ -1,0 +1,7 @@
+<application>
+  <component name="me.bytebeats.polyglot.ui.PolyglotSettingState">
+    <option name="from" value="自动检测" />
+    <option name="preferredLang" value="中文" />
+    <option name="to" value="中文(简体)" />
+  </component>
+</application>
