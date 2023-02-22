@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
     <notification groupId="gittoolbox.fetch.info" displayType="NONE" shouldLog="false" />
     <notification groupId="Key Promoter X" displayType="NONE" />
     <notification groupId="Pomodoro Notifications" displayType="STICKY_BALLOON" playSound="true" />
