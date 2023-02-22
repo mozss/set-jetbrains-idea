@@ -144,13 +144,14 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="A class used to represent multiprecision integers that makes efficient use of allocated space by allowing a number to occupy only part of an array so that the arrays do not have to be reallocated as often. When performing an operation with many iterations the array used to hold a number is only reallocated when necessary and does not have to be the same size as the number it represents. A mutable number allows calculations to occur on the same number without having to create a new number for every step of the calculation as occurs with BigIntegers." />
       <item value="This class was originally taken from a functional example using the Authorize.net API but was modified for this example to use mock classes so that the real API does not need to be depended upon and so that a backend account with Authorize.net is not needed." />
       <item value="Key classes you're most likely to interact with are:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
