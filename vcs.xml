@@ -198,9 +198,13 @@
           <option name="url" value="https://github.com/wangzihaogithub/spring-netty-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mozss/read-go.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\data-mozss\code\workspace-project-demo-learn\netty" />
+    <option name="cloneParentDir" value="D:\data-mozss\code\workspace-project\read" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
