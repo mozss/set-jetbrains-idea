@@ -224,6 +224,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.linkkou.plugin.intellij.assistant">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.sburlyaev.terminal.plugin">
           <value>
             <PluginData>
